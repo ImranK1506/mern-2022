@@ -1,0 +1,8 @@
+# db
+src/db.js
+
+# dependencies
+/node_modules
+
+# auth
+credentials.json
