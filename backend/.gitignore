@@ -1,8 +1,11 @@
-# db
-src/db.js
-
 # dependencies
 /node_modules
 
 # auth
 credentials.json
+
+# build
+build
+
+# env
+.env
